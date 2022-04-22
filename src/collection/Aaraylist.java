@@ -13,7 +13,7 @@ public class Aaraylist
 	{
 		System.out.println("changing on behalf of guy X from Asia");
 		System.out.println("changing on behalf of guy Y from America from stuffofgit");
-		
+		System.out.println("moving to develop branch from master in git clone module");
 		 ///https://beginnersbook.com/2013/12/java-arraylist/ 
 		/*ArrayList<Integer> li=new ArrayList<>();
 		li.add(2);
